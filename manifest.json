@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "name": "Chrome Extension - Himanshu Chandola",
+  "action": {
+    "default_popup": "js/index.html",
+    "default_title": "Simple Chrome Extension - Himanshu Chandola"
+  }
+}
