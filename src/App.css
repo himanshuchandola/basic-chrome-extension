@@ -4,7 +4,16 @@
 }
 
 .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 15rem;
   height: 15rem;
   background-color: white;
+}
+
+.github-link {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
 }
